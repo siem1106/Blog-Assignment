@@ -2,6 +2,8 @@
 layout: post
 title: "The Vajra: Origins and Significance in Buddhism"
 ---
+![This is alt text.](https://cdn.britannica.com/86/8886-004-77E3B814/Vajra-Newark-Museum.jpg?w=300 "This is a sample image.")
+
 Religion often has symbols and objects used frequently within practice or scripture, and for Buddhism, this is the Vajra. Usually made of bronze, the vajra is an ornate sculpted object used in one of the three major branches of Buddhism, so significant that it’s used to denote the branch’s name: Vajrayana Buddhism. This branch is most commonly practiced in Tibet, where the vajra is known as a dorje, the Tibetan translation. The name vajra is more commonly used outside of Tibet, due to its origins in Indian culture.
 
 ## Origins
