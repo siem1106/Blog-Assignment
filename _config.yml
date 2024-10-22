@@ -3,13 +3,13 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            TITLE_HERE
+title:            The Vahra: Origins and Significance in Buddhism
 tagline:          ''
 description:      ''
-url:              https://kikibase.github.io
+url:              https://siem1106.github.io
 baseurl:          '/Blog-Assignment/'
-author: WriteNameHere
-email: replace@gmail.com
+author: Moira Sie
+email: siem@myumanitoba.ca
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
