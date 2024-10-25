@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            The Vajra
+title:            Religious Objects
 tagline:          ''
-description:      ''
+description:      'A blog about religious objects from across the world and their significance within their respective religions.'
 url:              https://siem1106.github.io
 baseurl:          '/Blog-Assignment/'
 author: Moira Sie
